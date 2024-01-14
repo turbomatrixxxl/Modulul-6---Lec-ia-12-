@@ -1,2 +1,2 @@
-# Modulul-6---Lec-ia-12-
+# Modulul-6-Lectia-12
 Validarea-unui-formular
